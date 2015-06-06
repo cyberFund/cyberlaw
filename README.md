@@ -15,6 +15,8 @@ All rights derived from essential as the following: the right for a Private Key,
 # In Math We Trust
 
 Cyberspace, 1433609025 Linux Time.
+[Proof][15] of [existence][16]
+<!-- ff8ee9385ecc57568875277c9d169c3437449c6f678bbea497409c35a8082237 -->
 
 
   [1]: http://bitcoin.org
@@ -31,4 +33,5 @@ Cyberspace, 1433609025 Linux Time.
   [12]: https://en.wikipedia.org/wiki/Golden_Rule
   [13]: http://safenet.com
   [14]: https://bitcoin.org/bitcoin.pdf
-
+  [15]: https://insight.bitpay.com/tx/99cd47098ba5966a5dc1213569d37057cb591dab87d37641d2a00ff0ab964e22
+  [16]: https://github.com/cyberFund/cyberlaw/blob/master/cyberlaw-master.zip
