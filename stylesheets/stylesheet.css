@@ -9,6 +9,14 @@ body {
 }
 
 /* General & 'Reset' Stuff */
+a {
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: underline; 
+  color: red;
+}
+
 
 .container {
   width: 90%;
