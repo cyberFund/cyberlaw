@@ -9,6 +9,16 @@ body {
 }
 
 /* General & 'Reset' Stuff */
+h2 a {
+  text-decoration: none;
+  color: #666;
+}
+
+h2 a {
+  text-decoration: none;
+  color: red;
+}
+
 a {
   text-decoration: none; 
 } 
