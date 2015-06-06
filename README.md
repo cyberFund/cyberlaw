@@ -1,6 +1,6 @@
 # Confederation of Independent Systems
 
-We are the minds of 11 Independent Systems of Cyberspace: [Bitcoiners][1], [Bitshareans][2], [Shibes][3], [Bytecoiners][4], [Dashes][5], [Ethereans][6], [Nemsters][7], [Nexters][8], [Ripplers][9], [Stellarians][10] and [Safers][13] inspired by [A Declaration of the Independence of Cyberspace][11] and [the Knowledge][14] given us by Satoshi Nakomoto, today, 6 of June 2015, declare our Confederation for piece, for good, for better.
+We are the minds of 11 Independent Systems of Cyberspace: [Bitcoiners][1], [Bitshareans][2], [Shibes][3], [Bytecoiners][4], [Dashes][5], [Ethereans][6], [Nemsters][7], [Nexters][8], [Ripplers][9], [Stellarians][10] and [Safers][13] inspired by [A Declaration of the Independence of Cyberspace][11] and [the Knowledge][14] given us by Satoshi Nakamoto, today, 6 of June 2015, declare our Confederation for piece, for good, for better.
 
 Guided by the [Golden Rule][12] we declare our essential rights:
 
