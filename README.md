@@ -35,3 +35,7 @@ Cyberspace, 1433609025 Linux Time.
   [14]: https://bitcoin.org/bitcoin.pdf
   [15]: https://insight.bitpay.com/tx/99cd47098ba5966a5dc1213569d37057cb591dab87d37641d2a00ff0ab964e22
   [16]: https://github.com/cyberFund/cyberlaw/blob/master/cyberlaw-master.zip
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cyberFund/cyberlaw/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
